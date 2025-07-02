@@ -43,13 +43,13 @@ This project serves as the backend API for a management system, handling data op
 
 Development mode:
 ```bash
-npm run dev
+npm run start:dev
 ```
 
 Production build:
 ```bash
 npm run build
-npm run start:dev
+npm run start:prod
 ```
 
 ## Project Structure 
