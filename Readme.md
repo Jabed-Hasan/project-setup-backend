@@ -1,10 +1,10 @@
-# University Management Backend
+#  Backend Setup
 
 A backend system for managing  operations built with Node.js, Express, and MongoDB.
 
 ## Overview
 
-This project serves as the backend API for a  management system, handling data operations for students, faculty, courses, and administrative functions.
+This project serves as the backend API for a management system, handling data operations for functions.
 
 ## Technologies Used
 
@@ -49,7 +49,7 @@ npm run dev
 Production build:
 ```bash
 npm run build
-npm start
+npm run start:dev
 ```
 
 ## Project Structure 
